@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://novavia.studio/sitemap.xml
